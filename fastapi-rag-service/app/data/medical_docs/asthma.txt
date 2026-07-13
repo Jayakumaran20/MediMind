@@ -1,0 +1,45 @@
+Asthma — Clinical Overview
+
+Definition
+Asthma is a chronic inflammatory disorder of the airways causing recurrent
+episodes of wheezing, breathlessness, chest tightness, and coughing due to
+variable airflow obstruction and bronchial hyperresponsiveness.
+
+Common Triggers
+- Allergens: dust mites, pet dander, pollen, mold
+- Respiratory infections (viral URIs)
+- Exercise, cold air
+- Tobacco smoke, air pollution
+- Occupational exposures (isocyanates, flour dust)
+- NSAIDs and beta-blockers (in sensitive individuals)
+- Emotional stress
+
+Severity Classification (GINA)
+- Intermittent: symptoms < 2x/week, nighttime awakenings < 2x/month
+- Mild persistent: symptoms > 2x/week but not daily
+- Moderate persistent: daily symptoms, nighttime > 1x/week
+- Severe persistent: continuous symptoms, frequent nighttime awakenings
+
+Stepwise Treatment (GINA 2023)
+Step 1: As-needed low-dose ICS-formoterol (preferred) or SABA + low-dose ICS
+Step 2: Daily low-dose ICS (e.g., budesonide 200-400 mcg) or as-needed ICS-formoterol
+Step 3: Low-dose ICS-LABA (formoterol/budesonide)
+Step 4: Medium-dose ICS-LABA
+Step 5: Add-on LAMA (tiotropium) or biologics (omalizumab, mepolizumab)
+
+Acute Exacerbation Management
+- Mild-moderate: SABA (albuterol) 4-10 puffs via spacer every 20 min for 1 hour
+- Add oral corticosteroids (prednisone 40-50 mg daily x 5-7 days) for moderate+
+- Severe: seek emergency care — signs include inability to speak in full
+  sentences, silent chest, cyanosis, altered mental status, PEF < 50% predicted.
+
+Peak Flow Monitoring
+- Green zone (80-100% personal best): continue routine treatment
+- Yellow zone (50-79%): add SABA, may need oral steroids
+- Red zone (< 50%): use rescue inhaler, seek emergency care
+
+Patient Education Essentials
+- Correct inhaler technique (spacer recommended for MDI)
+- Written asthma action plan
+- Trigger avoidance
+- Annual influenza vaccination

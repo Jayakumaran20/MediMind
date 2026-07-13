@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet-gateway", "dotnet-gateway", "{5F1FB938-6D0C-598F-30ED-0BBA006DD4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediMind.Gateway", "dotnet-gateway\MediMind.Gateway.csproj", "{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92F98A45-DA7E-A3B9-92F8-F4D2F2E66DBD} = {5F1FB938-6D0C-598F-30ED-0BBA006DD4CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4549AD1-7CE6-4984-81E2-95CC3F97308E}
+	EndGlobalSection
+EndGlobal

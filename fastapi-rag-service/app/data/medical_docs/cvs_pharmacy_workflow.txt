@@ -1,0 +1,51 @@
+Retail Pharmacy Prescription Workflow (CVS-style Operations)
+
+Prescription Intake
+Prescriptions arrive via e-prescribe (Surescripts), fax, phone, or paper.
+E-prescribe is preferred: legibility, DEA validation, patient-matched.
+
+Data Verification Steps
+1. Patient identity: full name, DOB, address must match profile.
+2. Prescriber DEA number required for controlled substances (schedules II-V).
+3. Drug: name, strength, dosage form, quantity, days supply.
+4. Directions (Sig): must be clinically sensible; flag "take as directed" for follow-up.
+5. Refill count: 0-5 for non-controlled; C-II has no refills.
+
+Insurance Adjudication
+Real-time claim sent to PBM via NCPDP D.0 telecom standard.
+Common rejects:
+- 70 (Product/Service not covered)
+- 75 (Prior authorization required)
+- 88 (DUR reject — drug utilization review)
+- 79 (Refill too soon)
+
+Drug Utilization Review (DUR) Checks
+- Drug-drug interactions
+- Duplicate therapy
+- High dose alerts
+- Allergy checks
+- Pregnancy warnings
+- Age-inappropriate medications (Beers criteria for elderly)
+
+Fill Process
+1. Robotic or manual dispensing per NDC number.
+2. Label print with patient name, drug, directions, warnings, prescriber, RX#.
+3. Auxiliary labels (e.g., "Take with food", "May cause drowsiness").
+4. Pharmacist final verification: visual match, DUR review, counseling flag.
+
+Patient Counseling
+Federal law (OBRA-90) requires offer of counseling for new prescriptions.
+Topics: name & purpose, dose & timing, common side effects, missed dose,
+storage, refills. Documented via signature or e-signature.
+
+Adherence Programs
+- ReadyFill (auto-refill)
+- 90-day fills for chronic maintenance meds
+- Medication Therapy Management (MTM) for Medicare Part D patients
+  with multiple chronic conditions
+
+Common Data Quality Issues
+- NDC mismatch after manufacturer change
+- Days supply calculation errors for topicals and inhalers
+- Duplicate profiles from spelling variants
+- Missing prescriber NPI on legacy scripts

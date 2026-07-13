@@ -1,0 +1,44 @@
+Hypertension (High Blood Pressure) — Clinical Overview
+
+Definition
+Hypertension is a chronic condition where the force of blood against the artery
+walls is persistently elevated. Blood pressure is measured with two numbers:
+systolic (top, during heartbeat) over diastolic (bottom, at rest between beats).
+
+Stages (per ACC/AHA 2017 guidelines)
+- Normal: < 120/80 mmHg
+- Elevated: 120-129 / < 80 mmHg
+- Stage 1: 130-139 / 80-89 mmHg
+- Stage 2: >= 140 / >= 90 mmHg
+- Hypertensive crisis: > 180 / > 120 mmHg (requires immediate medical care)
+
+Common Symptoms
+Most patients are asymptomatic ("silent killer"). Severe hypertension may cause
+headaches, blurred vision, chest pain, shortness of breath, or nosebleeds.
+
+Risk Factors
+- Age > 60
+- Family history of hypertension or cardiovascular disease
+- High sodium diet, low potassium intake
+- Obesity and physical inactivity
+- Excessive alcohol consumption
+- Chronic stress
+- Diabetes and chronic kidney disease
+
+First-Line Treatment
+Lifestyle changes: DASH diet, sodium restriction (< 2300 mg/day, ideally 1500),
+regular aerobic exercise (150 min/week), weight loss, limited alcohol.
+
+Pharmacologic options (start when BP >= 140/90 or >= 130/80 with high ASCVD risk):
+- Thiazide diuretics (e.g., hydrochlorothiazide 12.5-25 mg daily)
+- ACE inhibitors (e.g., lisinopril 10-40 mg daily)
+- ARBs (e.g., losartan 50-100 mg daily)
+- Calcium channel blockers (e.g., amlodipine 5-10 mg daily)
+
+Monitoring
+Home BP monitoring twice daily is recommended for newly diagnosed patients.
+Follow-up every 3-6 months once stable. Annual labs: creatinine, potassium, lipid panel.
+
+When to Seek Emergency Care
+BP > 180/120 with chest pain, vision changes, weakness, difficulty speaking,
+or severe headache -> call emergency services immediately.

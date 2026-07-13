@@ -1,0 +1,46 @@
+Common Clinically Significant Drug-Drug Interactions
+
+Warfarin (Coumadin)
+- + NSAIDs (ibuprofen, naproxen): increased bleeding risk
+- + antibiotics (metronidazole, TMP-SMX, fluoroquinolones): elevated INR
+- + amiodarone: 2-fold INR increase — reduce warfarin dose 30-50%
+- + acetaminophen > 2 g/day chronic: mild INR elevation
+Action: monitor INR closely, adjust dose, consider PPI for GI protection.
+
+Statins (atorvastatin, simvastatin)
+- + macrolides (clarithromycin, erythromycin): rhabdomyolysis risk via CYP3A4
+- + grapefruit juice: increased statin levels (simvastatin especially)
+- + fibrates (gemfibrozil): myopathy risk
+Action: hold simvastatin during short antibiotic courses; use pravastatin
+or rosuvastatin (non-CYP3A4) in polypharmacy patients.
+
+SSRIs / SNRIs
+- + MAOIs: serotonin syndrome (potentially fatal) — 14-day washout required
+- + tramadol, linezolid, triptans, St John's Wort: serotonin syndrome risk
+- + NSAIDs: increased GI bleeding risk
+Symptoms of serotonin syndrome: hyperthermia, hyperreflexia, clonus,
+agitation, autonomic instability.
+
+Metformin
+- + iodinated contrast media: hold 48h before and after in CKD patients
+  (risk of lactic acidosis)
+- + alcohol (heavy): lactic acidosis
+Action: check eGFR before contrast studies.
+
+ACE Inhibitors
+- + potassium supplements or K-sparing diuretics (spironolactone): hyperkalemia
+- + NSAIDs: reduced antihypertensive effect + acute kidney injury
+- + lithium: elevated lithium levels
+
+Digoxin
+- + amiodarone, verapamil, clarithromycin: increased digoxin levels
+- + loop diuretics: hypokalemia potentiates digoxin toxicity
+Toxicity signs: nausea, visual disturbances (yellow halos), arrhythmia.
+
+QT-Prolonging Combinations (Torsades de Pointes risk)
+Avoid combinations of: amiodarone, sotalol, methadone, ondansetron,
+haloperidol, fluoroquinolones, macrolides, citalopram > 20 mg in elderly.
+
+Opioids + Benzodiazepines
+FDA black box warning: profound sedation, respiratory depression, death.
+Avoid coprescribing when possible.

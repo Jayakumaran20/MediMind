@@ -1,0 +1,46 @@
+Adult Vaccination Schedule (CDC 2024 — routine)
+
+Influenza (Flu)
+Annual; all persons >= 6 months. High-dose or adjuvanted formulations
+preferred for age >= 65. Optimal timing: September-October.
+
+COVID-19
+Annual updated vaccine per current CDC guidance for all age >= 6 months.
+Additional dose for immunocompromised.
+
+Tdap / Td
+Tdap once in adulthood, then Td or Tdap booster every 10 years.
+Tdap during every pregnancy (27-36 weeks gestation).
+
+Pneumococcal (PCV20 or PCV15 + PPSV23)
+- All adults >= 65
+- Age 19-64 with chronic conditions (heart, lung, liver, diabetes, smoking,
+  immunocompromise, CSF leaks, cochlear implants)
+
+Zoster (Shingrix, RZV)
+Two doses 2-6 months apart. All adults >= 50. Immunocompromised >= 19.
+
+RSV
+Single dose for adults >= 75, or 60-74 with high risk. Also for pregnant
+persons 32-36 weeks gestation to protect newborn.
+
+HPV (Gardasil 9)
+Routine ages 9-26. Shared clinical decision-making ages 27-45.
+
+Hepatitis B
+All adults 19-59; older with risk factors. Three-dose or two-dose schedule
+depending on product.
+
+MMR
+Two doses for adults born in or after 1957 without immunity.
+
+Meningococcal
+Age-specific and risk-based (college dorm, military, asplenia, complement
+deficiency, HIV, travel to meningitis belt).
+
+Pharmacy Administration Notes
+- Verify patient age, condition, contraindications (severe allergy to
+  component, immunocompromise for live vaccines).
+- Standing orders or prescriber protocol required per state.
+- Document via IIS (Immunization Information System / state registry).
+- Observe patient 15 min post-injection (30 min if history of anaphylaxis).

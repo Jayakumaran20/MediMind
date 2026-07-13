@@ -1,0 +1,44 @@
+# Environments & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ChromaDB local persistence
+fastapi-rag-service/chroma_db/
+fastapi-rag-service/app/data/chroma_persist/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Docker
+*.log
+
+# Node (if you add a frontend later)
+node_modules/

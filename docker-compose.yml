@@ -1,0 +1,50 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: medimind-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  fastapi-rag:
+    build: ./fastapi-rag-service
+    container_name: medimind-rag
+    ports:
+      - "8000:8000"
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY}
+      CLAUDE_MODEL: ${CLAUDE_MODEL:-claude-opus-4-7}
+      CHROMA_PERSIST_DIR: /app/chroma_db
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-sentence-transformers/all-MiniLM-L6-v2}
+      TOP_K_RESULTS: ${TOP_K_RESULTS:-4}
+    volumes:
+      - chroma_data:/app/chroma_db
+      - ./fastapi-rag-service/app/data/medical_docs:/app/app/data/medical_docs:ro
+    depends_on:
+      redis:
+        condition: service_healthy
+
+  gateway:
+    build: ./dotnet-gateway
+    container_name: medimind-gateway
+    ports:
+      - "5000:5000"
+    environment:
+      RAG_SERVICE_URL: http://fastapi-rag:8000
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      CACHE_TTL_SECONDS: ${CACHE_TTL_SECONDS:-3600}
+      ASPNETCORE_ENVIRONMENT: Development
+    depends_on:
+      - fastapi-rag
+      - redis
+
+volumes:
+  redis_data:
+  chroma_data:

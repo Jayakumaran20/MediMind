@@ -1,0 +1,52 @@
+Type 2 Diabetes Mellitus — Clinical Reference
+
+Definition
+Type 2 diabetes is a chronic metabolic disorder characterized by insulin
+resistance and progressive beta-cell dysfunction, resulting in hyperglycemia.
+
+Diagnostic Criteria (ADA)
+- Fasting plasma glucose >= 126 mg/dL, OR
+- 2-hour plasma glucose >= 200 mg/dL during OGTT, OR
+- HbA1c >= 6.5%, OR
+- Random plasma glucose >= 200 mg/dL with classic symptoms.
+Prediabetes: HbA1c 5.7-6.4% or fasting glucose 100-125 mg/dL.
+
+Classic Symptoms
+Polyuria (excessive urination), polydipsia (excessive thirst), polyphagia
+(increased hunger), unexplained weight loss, blurred vision, slow-healing
+wounds, fatigue, recurrent infections (especially yeast and urinary).
+
+Risk Factors
+- BMI >= 25 (>= 23 in Asian populations)
+- Sedentary lifestyle
+- Family history in first-degree relative
+- History of gestational diabetes or PCOS
+- Hypertension, dyslipidemia
+- Age >= 45
+
+Treatment Ladder
+1. Lifestyle: 5-10% weight loss, 150 min/week moderate exercise, Mediterranean
+   or low-carb diet, smoking cessation.
+2. First-line pharmacologic: metformin 500 mg BID, titrate to 1000 mg BID
+   (contraindicated if eGFR < 30).
+3. Add-on based on comorbidities:
+   - Established ASCVD or heart failure: GLP-1 receptor agonist (semaglutide)
+     or SGLT2 inhibitor (empagliflozin, dapagliflozin).
+   - Chronic kidney disease: SGLT2 inhibitor preferred.
+   - Cost concern: sulfonylurea (glipizide) or basal insulin.
+
+Target HbA1c
+- Most adults: < 7.0%
+- Frail elderly / short life expectancy: 7.5-8.0%
+- Young, low-risk: as close to 6.5% as safely achievable
+
+Complications to Screen For
+- Retinopathy: annual dilated eye exam
+- Nephropathy: annual urine albumin-to-creatinine ratio, eGFR
+- Neuropathy: annual monofilament foot exam
+- Cardiovascular: lipid panel yearly, aspirin if 10-yr ASCVD risk > 10%
+
+Hypoglycemia Warning
+Insulin and sulfonylureas can cause dangerously low blood sugar. Symptoms:
+sweating, tremor, confusion, palpitations. Treat with 15 g fast-acting carbs
+(4 oz juice, 3-4 glucose tabs) and recheck in 15 minutes.
