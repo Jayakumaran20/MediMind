@@ -61,7 +61,6 @@ class MedicalAgent:
         self.llm = ChatAnthropic(
             model=settings.claude_model,
             api_key=settings.anthropic_api_key,
-            temperature=0.1,
             max_tokens=2048,
         )
         # create_react_agent builds a LangGraph state machine:
