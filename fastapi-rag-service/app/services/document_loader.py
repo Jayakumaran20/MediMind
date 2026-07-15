@@ -1,5 +1,4 @@
 """Load local medical text files, split into chunks, prepare for ingestion."""
-import os
 from pathlib import Path
 from typing import List
 from langchain.schema import Document

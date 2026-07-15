@@ -19,7 +19,7 @@
 """
 from typing import Any, Dict, List
 from langchain_anthropic import ChatAnthropic
-from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_core.messages import HumanMessage
 from langgraph.prebuilt import create_react_agent
 
 from app.config import settings

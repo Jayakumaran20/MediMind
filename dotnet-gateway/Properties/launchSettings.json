@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MediMind.Gateway": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60259;http://localhost:60260"
+    }
+  }
+}
